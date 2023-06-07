@@ -1,0 +1,13 @@
+.pro{
+    width: 300px;
+    padding: 3px;
+    border-radius: 10px;
+    background-color: peachpuff;
+    display: inline-table;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.gbr{
+ width: 100%;
+}

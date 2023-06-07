@@ -1,0 +1,12 @@
+.dash{
+    box-sizing: border-box;
+    width: 300;
+    padding: 20px;
+    align-items: center;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    background-color: indianred;
+    gap:20px;
+    border-radius: 3px;
+}
